@@ -6,6 +6,9 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+#main {
+  background-image: url("https://s-media-cache-ak0.pinimg.com/736x/ff/b4/89/ffb48967ae0c90c3a3d8414edbc29c7e.jpg");
+}
 .progress {height: 30px;}
 #myProgress {
     position: relative;
